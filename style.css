@@ -196,7 +196,11 @@ pre > code {
 	max-width: 500px;
 }
 
-#about {
+.main_text {
+    max-width: 700px;
+}
+
+.about {
 	max-width: 300px;
 	color: #999;
 }
@@ -208,6 +212,7 @@ pre > code {
 
 /* resize images */
 .main_image img {
+    max-width: 700px;
     width: 100%;
     height: auto;
 }
